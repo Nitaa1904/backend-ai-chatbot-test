@@ -1,0 +1,22 @@
+# Environment variables (API Key rahasia)
+.env
+
+# Database lokal
+*.db
+chatbot.db
+
+# Cache & Temporary Python
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# Virtual Environment (jika ada)
+venv/
+env/
+.venv/
+
+# Editor & OS settings
+.vscode/
+.idea/
+.DS_Store
